@@ -1,2 +1,7 @@
-# Lista12Kotlin
-Lista com 12 códigos em kotlin.
+# 📁 Acesso ao projeto
+
+**Baixe o arquivo e descompacte**
+
+# 🛠️ Abrir e rodar o projeto
+
+**link o arquivo em alguma plataforma que rode em Kotlin , como: o Replit**
